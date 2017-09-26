@@ -1,3 +1,4 @@
 # test_repo
 
-print'Hello World'
+print'Hello'
+print'蠢蛋'
